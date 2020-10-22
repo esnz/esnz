@@ -1,4 +1,4 @@
-<h1 align="center">Ehsan Azizi from Afghanistan</h1>
+<h1 align="center">Ehsan Azizi</h1>
 <h3 align="center">A passionate software developer with over 8 years of experience in developing software under both web and Windows environments. I am the founder and developer of Unic Accounting, a popular accounting software for small and medium-sized businesses. I enjoy working with various technologies and languages such as Javascript, Typescript, Angular, React, NodeJs, C#, ASP.NET Core. </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=esnz" alt="esnz" /> </p>
 
