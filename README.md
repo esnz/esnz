@@ -6,7 +6,7 @@
 
 - 💬 Ask me about **React**
 
-- 📫 How to reach me **hi@ehsanaziziz.me**
+- 📫 How to reach me **hi@ehsanazizi.me**
 
 - ⚡ Fun fact **Coffee over Chai**
 
