@@ -5,11 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=esnz" alt="esnz" /></a> </p>
 
-- 🌱 I’m currently learning **Testing**
-
 - 👨‍💻 All of my projects are available at [www.ehsanazizi.me](www.ehsanazizi.me)
-
-- 💬 Ask me about **React and CSS**
 
 - 📫 How to reach me **hi@ehsanazizi.me**
 
